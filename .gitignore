@@ -1,0 +1,4 @@
+# exclude these files
+*.[ado]
+lib*.so
+utf8
