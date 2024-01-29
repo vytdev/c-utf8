@@ -1,6 +1,6 @@
 /*==============================================================================
  * utf8.h — Custom implementation of UTF-8 encoder and decoder in C
- * Copyright (c) 2023 VYT <https://vytdev.github.io>
+ * Copyright (c) 2023-2024 VYT <https://vytdev.github.io>
  * See: https://github.com/vytdev/c-utf8
  *==============================================================================
  */

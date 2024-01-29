@@ -6,5 +6,5 @@ Refer to [`utf8.h`](utf8.h) for API documentation.
 
 ## License
 
-Copyright &copy; 2023 Vincent Yanzee J. Tan. This project is licensed under
+Copyright &copy; 2023-2024 Vincent Yanzee J. Tan. This project is licensed under
 the MIT License. See [LICENSE](LICENSE) for more information.
